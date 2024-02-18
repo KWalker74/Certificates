@@ -3,4 +3,4 @@
 
 <img src="MyZTMCert.png"/>
 
-<img src="myGCC.png"/>
+<img src="MyZTMAICert.png"/>
