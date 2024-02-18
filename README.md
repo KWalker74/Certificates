@@ -1,2 +1,2 @@
-<h1>Certifications</h1>
+<h1>My Certifications</h1>
 <img src="myGCC.png"/>
