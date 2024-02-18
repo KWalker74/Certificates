@@ -10,4 +10,4 @@
 
 <h1>My Sales Techn Certifications</h1>
 
-<img src="ZTMCYBERSEC.png"/>
+<img src="SALECLOSING.png"/>
