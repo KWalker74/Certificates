@@ -1,4 +1,4 @@
-<h1 class="header">My Technical Certifications</h1>
+<h1>My Technical Certifications</h1>
 <img src="myGCC.png"/>
 
 <img src="ZTMCYBERSEC.png"/>
@@ -16,4 +16,4 @@
 
 <img src="SALECLOSING.png"/>
 
-.header{text-align:center;}
+
