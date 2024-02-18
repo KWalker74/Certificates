@@ -16,4 +16,5 @@
 
 <img src="SALECLOSING3.png"/>
 
+<img src="SALECLOSING4.png">
 
