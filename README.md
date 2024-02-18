@@ -11,3 +11,7 @@
 <h1>My Sales Techn Certifications</h1>
 
 <img src="SALECLOSING.png"/>
+
+<img src="SALECLOSING2.png"/>
+
+<img src="SALECLOSING.png"/>
